@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @giovanastefan
+- 👀 I’m interested in front-end programming
+- 🌱 I’m currently learning javascript and react
